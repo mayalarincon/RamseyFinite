@@ -2,7 +2,9 @@
 Proof of the finite version of Ramsey's Theorem
 
 Fabián Fernando Serrano Suárez (UNAL - Manizales)
+
 Thaynara Arielly de Lima (Universidade Federal de Goiás)
+
 Mauricio Ayala-Rincón (Universidade Federal de Goiás / Universidade de Brasília)
 
 
