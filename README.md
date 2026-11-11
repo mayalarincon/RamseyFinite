@@ -1,7 +1,7 @@
 # RamseyFinite
 Proof of the finite version of Ramsey's Theorem
 
-Fabián Fernando Serrano Suárez (UNAL - Manizales)
+Fabián Fernando Serrano Suárez (Universidad Nacional de Colombia)
 
 Thaynara Arielly de Lima (Universidade Federal de Goiás)
 
